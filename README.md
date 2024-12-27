@@ -19,6 +19,6 @@ This document has been separated into multiple sub-documents for ease of access,
 - [[mediation|DH's attempts at collaboration]]
 
 ## Private developer chat leak
-Attached to this document is a complete dump of Home Headquartersâ€™ private \#development chat, with the major exponents of the group.
+Attached to this document is a complete dump of Home Headquarters' private #development chat, with the major exponents of the group.
 
 Wherever possible, the chapters will reference the relevant parts of the conversation.
