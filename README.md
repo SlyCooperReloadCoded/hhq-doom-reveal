@@ -1,9 +1,9 @@
 # What is Home Headquarters?
 **Home Headquarters** is a revival group for the now defunct game PlayStation Home.
 
-Over the recent years theyâ€™ve become more and more popular, throughout various methods of advertising themselves.
+Over the recent years they've become more and more popular, throughout various methods of advertising themselves.
 
-Unfortunately, theyâ€™ve done a decent job at hiding their real face and not many people know the real behaviour of the people who lead the group.
+Unfortunately, they've done a decent job at hiding their real face and not many people know the real behaviour of the people who lead the group.
 
 This document aims to put an end to that, once and for all.
 
@@ -16,7 +16,7 @@ This document has been separated into multiple sub-documents for ease of access,
 - [[ban_evasion|Ban evasion]]
 - [[advertising|Inappropriate advertising]]
 - [[misinformation|Spreading misinformation]]
-- [[mediation|DHâ€™s attempts at collaboration]]
+- [[mediation|DH's attempts at collaboration]]
 
 ## Private developer chat leak
 Attached to this document is a complete dump of Home Headquartersâ€™ private \#development chat, with the major exponents of the group.
